@@ -1,6 +1,6 @@
-### Hi mate,🎈 I am Karteek Menda. 
+### Hi mate,🎈 I am Harshit Mandadi. 
 
-I am a  Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables.
+I am a Robotics and Artificial Intelligence Enthusiast and a Machine Learning Blogger. ------------------------------------------------------
 
 - 🌱 I’m completely looking to fulfil my goal of establishing a start-up venture of agriculture-based robotic products to help the farmers in India.
 - 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems.
